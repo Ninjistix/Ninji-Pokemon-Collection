@@ -13,7 +13,7 @@ Welcome to the **Ninji-Pokemon-Collection**! This is a comprehensive collection 
 | Game                   | Generation | Pokémon Caught | Status        |
 |------------------------|------------|----------------|---------------|
 | **Red**                | Gen 1      | 140 / 151        | 🟡 In Progress  |
-| **Blue**               | Gen 1      | 0 / 151        | 🟠 Incomplete  |
+| **Blue**               | Gen 1      | 25 / 151        | 🟡 In Progress  |
 | **Yellow**             | Gen 1      | 0 / 151        | 🟠 Incomplete  |
 | **Gold**               | Gen 2      | 0 / 251        | 🟠 Incomplete  |
 | **Silver**             | Gen 2      | 0 / 251        | 🟠 Incomplete  |
