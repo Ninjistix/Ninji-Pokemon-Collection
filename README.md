@@ -14,10 +14,10 @@ Welcome to the **Ninji-Pokemon-Collection**! This is a comprehensive collection 
 |------------------------|------------|----------------|---------------|
 | 🟥 **Red**             | Gen 1      | 151 / 151      | 🟢 Complete    |
 | 🟦 **Blue**            | Gen 1      | 151 / 151       | 🟢 Complete  |
-| 🟡 **Yellow**          | Gen 1      | 1 / 151        | 🟡 In Progress  |
-| 🟡 **Gold**            | Gen 2      | 0 / 251        | 🟠 Incomplete  |
+| 🟡 **Yellow**          | Gen 1      | 30 / 151        | 🟡 In Progress  |
+| 🟠 **Gold**            | Gen 2      | 0 / 251        | 🟠 Incomplete  |
 | ⚪ **Silver**          | Gen 2      | 0 / 251        | 🟠 Incomplete  |
-| 💎 **Crystal**         | Gen 2      | 0 / 251        | 🟠 Incomplete  |
+| 🟣 **Crystal**         | Gen 2      | 0 / 251        | 🟠 Incomplete  |
 | 🔴 **Ruby**            | Gen 3      | 0 / 386        | 🟠 Incomplete  |
 | 🔵 **Sapphire**        | Gen 3      | 0 / 386        | 🟠 Incomplete  |
 | 💚 **Emerald**         | Gen 3      | 0 / 386        | 🟠 Incomplete  |
@@ -36,7 +36,7 @@ Welcome to the **Ninji-Pokemon-Collection**! This is a comprehensive collection 
 | 💛 **Y**               | Gen 6      | 0 / 721        | 🟠 Incomplete  |
 | 🔴 **Omega Ruby**      | Gen 6*     | 0 / 721        | 🟠 Incomplete  |
 | 🔵 **Alpha Sapphire**  | Gen 6*     | 0 / 721        | 🟠 Incomplete  |
-| 💛 **Let's Go, Pikachu!** | Gen 7*  | 0 / 151        | 🟠 Incomplete  |
+| 🟨 **Let's Go, Pikachu!** | Gen 7*  | 0 / 151        | 🟠 Incomplete  |
 | 🟫 **Let's Go, Eevee!**   | Gen 7*  | 0 / 151        | 🟠 Incomplete  |
 | 🌞 **Sun**             | Gen 7      | 0 / 807        | 🟠 Incomplete  |
 | 🌜 **Moon**            | Gen 7      | 0 / 807        | 🟠 Incomplete  |
