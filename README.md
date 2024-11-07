@@ -18,7 +18,7 @@ Welcome to the **Ninji-Pokemon-Collection**! This is a comprehensive collection 
 | 🟠 **Gold**            | Gen 2      | 0 / 251        | 🟠 Incomplete  |
 | ⚪ **Silver**          | Gen 2      | 0 / 251        | 🟠 Incomplete  |
 | 🟣 **Crystal**         | Gen 2      | 0 / 251        | 🟠 Incomplete  |
-| 🔴 **Ruby**            | Gen 3      | 22 / 386        | 🟡 In Progress  |
+| 🔴 **Ruby**            | Gen 3      | 36 / 386        | 🟡 In Progress  |
 | 🔵 **Sapphire**        | Gen 3      | 0 / 386        | 🟠 Incomplete  |
 | 💚 **Emerald**         | Gen 3      | 0 / 386        | 🟠 Incomplete  |
 | 🔥 **FireRed**         | Gen 3*     | 0 / 386        | 🟠 Incomplete  |
